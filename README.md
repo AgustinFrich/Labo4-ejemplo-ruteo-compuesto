@@ -17,3 +17,6 @@ Generan los componentes sobre el nuevo modulo:
 ng g c asignaturas/laboIII --module asignaturas  
 ng g c asignaturas/laboIV --module asignaturas
 ng g c asignaturas/laboV --module asignaturas
+
+# Ejemplo funcionando
+https://ejemplo-ruteo-compuesto-laboiv.web.app/
