@@ -1,7 +1,7 @@
 # Conceptos en el projecto
 
 - Ruteo simple (en el app-routing.module)
-- Lazy loading (en el app-routing.modulo hacia el asignaturas.module)
+- Lazy loading (en el app-routing.module hacia el asignaturas.module)
 - Ruteo compuesto / children (en el asignaturas-routing.module)
 
 # Comandos utilizados:
