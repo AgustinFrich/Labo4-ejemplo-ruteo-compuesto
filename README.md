@@ -7,15 +7,21 @@
 # Comandos utilizados:
 
 ng g c components/calendario
+
 ng g c components/menu
+
 ng g c components/tareas
 
-Genera el modulo con lazy loading sobre el modulo principal ya implementado:
+### Genera el modulo con lazy loading sobre el modulo principal ya implementado:
+
 ng g m asignaturas --route asignaturas --module=app
 
-Generan los componentes sobre el nuevo modulo:
+### Generan los componentes sobre el nuevo modulo:
+
 ng g c asignaturas/laboIII --module asignaturas  
+
 ng g c asignaturas/laboIV --module asignaturas
+
 ng g c asignaturas/laboV --module asignaturas
 
 # Ejemplo funcionando
